@@ -25,4 +25,6 @@ Took 3 hours expected me to take 3 hours
 
 # Functionality 
 
+[code](https://github.com/houseofpython/web-scraper/blob/fbd847703a0bddb4c4d5cf1675e9a8049fdcb10b/scraper.py)
+
 This code runs by taking in a url and scraping the webpage to return the number of "citation needed" the page has and the parent paragraph that contains the citation needed. 
